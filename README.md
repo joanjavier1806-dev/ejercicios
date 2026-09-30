@@ -29,3 +29,19 @@ Proceso Ejercio_1b
 	Escribir " El valo de X es: ", x
 	
 FInproceso
+
+
+
+
+
+
+
+
+
+
+Proceso Ejercio_1d
+	X <- (2+3) mod 4
+	
+	Escribir " El valo de X es: ", x
+	
+FInproceso
