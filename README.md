@@ -7,3 +7,16 @@ Proceso Ejercio_1A
 	
 	Escribir " El valo de X es: ", x
 	FInproceso
+
+
+
+
+
+
+
+Proceso Ejercio_1b
+	X <- 3 * (2+7)
+	
+	Escribir " El valo de X es: ", x
+	
+FInproceso
