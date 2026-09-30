@@ -240,3 +240,18 @@ FInproceso
 
 
 
+
+
+
+Proceso Ejercio_4d
+	c <- 1000
+	r <- 5
+	t <- 2 
+	resultado <- ( c * r * t ) / 100
+	
+	Escribir "El resultado es: ", resultado
+
+FInproceso
+
+
+
