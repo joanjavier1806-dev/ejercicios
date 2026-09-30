@@ -118,3 +118,20 @@ Proceso Ejercio_2e
 	Escribir " Resultado : ", resultado
 	
 FInproceso
+
+
+
+
+
+
+Proceso Ejercio_3a
+	a <- 3
+	b <- 0 
+	c <- a + b
+	a <- b
+	
+	
+	Escribir "a = " ,a
+	Escribir "b = " ,b
+	Escribir "c = " ,c
+FInproceso
