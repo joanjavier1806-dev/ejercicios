@@ -103,3 +103,18 @@ Proceso Ejercio_2c
 	
 FInproceso
 
+
+
+
+
+
+Proceso Ejercio_2e
+	a <- 6
+	b <- 2 
+	c <- 3
+	
+	resultado <- a * (b / c)
+	
+	Escribir " Resultado : ", resultado
+	
+FInproceso
