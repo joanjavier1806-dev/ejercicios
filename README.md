@@ -141,7 +141,7 @@ FInproceso
 
 
 
-Proceso Ejercio_3a
+Proceso Ejercio_3b
 	a <- 10
 	b <- 5 
 	a <- b
@@ -150,3 +150,23 @@ Proceso Ejercio_3a
 	Escribir "a = " ,a
 	Escribir "b = " ,b
 FInproceso
+
+
+
+
+Proceso Ejercio_3c
+	a <- 1
+	b <- 4
+	c <- a + b
+	d <- a - b
+	a <- c + 2 * b
+	b <- c + b
+	c <- a * b
+	d <- b + d 
+	
+	Escribir "a = " ,a
+	Escribir "b = " ,b
+	Escribir "c = " ,c
+	Escribir "d = " ,d
+FInproceso
+
