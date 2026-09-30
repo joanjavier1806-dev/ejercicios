@@ -54,3 +54,19 @@ Proceso Ejercio_1g
 	
 FInproceso
 
+
+
+
+
+
+
+Proceso Ejercio_2a
+	a <- 6
+	b <- 2 
+	c <- 3
+	
+	resultado <- a - b + c
+	
+	Escribir " Resultado : ", resultado
+	
+FInproceso
