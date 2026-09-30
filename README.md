@@ -193,3 +193,15 @@ Proceso Ejercio_3d
 FInproceso
 
 
+
+
+
+Proceso Ejercio_4a
+	m <- 10
+	n <- 2
+	resultado <- (m + n ) / n
+	
+	Escribir "El resultado es: ", resultado
+
+FInproceso
+
