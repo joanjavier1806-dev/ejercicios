@@ -135,3 +135,18 @@ Proceso Ejercio_3a
 	Escribir "b = " ,b
 	Escribir "c = " ,c
 FInproceso
+
+
+
+
+
+
+Proceso Ejercio_3a
+	a <- 10
+	b <- 5 
+	a <- b
+	b <- a
+	
+	Escribir "a = " ,a
+	Escribir "b = " ,b
+FInproceso
