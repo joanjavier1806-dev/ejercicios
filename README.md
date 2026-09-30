@@ -170,3 +170,26 @@ Proceso Ejercio_3c
 	Escribir "d = " ,d
 FInproceso
 
+
+
+
+
+
+Proceso Ejercio_3d
+	a <- 8
+	b <- 5
+	c <- 0
+	v <- 5
+	c <- c + a
+	a <- a + c - 2 + b
+	b <- b + b
+	a <- c
+	b <- v
+	
+	Escribir "a = " ,a
+	Escribir "b = " ,b
+	Escribir "c = " ,c
+	Escribir "v = " ,v
+FInproceso
+
+
