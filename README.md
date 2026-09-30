@@ -224,3 +224,19 @@ FInproceso
 
 
 
+
+
+Proceso Ejercio_4b
+	m <- 10
+	n <- 8
+	p <- 4
+	r <- 6
+	s <- 2
+	resultado <- (m + n / p ) / ( p - r /s )
+	
+	Escribir "El resultado es: ", resultado
+
+FInproceso
+
+
+
