@@ -12,6 +12,15 @@ Proceso Ejercio_1A
 
 
 
+Proceso Ejercio_1c
+	X <- (2+3) / 4
+	
+	Escribir " El valo de X es: ", x
+	
+FInproceso
+
+
+
 
 
 Proceso Ejercio_1b
