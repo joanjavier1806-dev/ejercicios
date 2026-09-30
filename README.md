@@ -70,3 +70,19 @@ Proceso Ejercio_2a
 	Escribir " Resultado : ", resultado
 	
 FInproceso
+
+
+
+
+
+
+Proceso Ejercio_2b
+	a <- 6
+	b <- 2 
+	c <- 3
+	
+	resultado <- a * b / c
+	
+	Escribir " Resultado : ", resultado
+	
+FInproceso
